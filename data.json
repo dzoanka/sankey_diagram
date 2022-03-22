@@ -25,7 +25,9 @@
     {"source":11,"target":19,"value":1, "color": "wheat"},
     {"source":2,"target":12,"value":1, "color": "lightgreen"},
     {"source":12, "target":20, "value":1, "color": "lightsteelblue"},
-    {"source":2,"target":5,"value":1, "color": "lightgreen"}
+    {"source":2,"target":5,"value":1, "color": "lightgreen"},
+    {"source":2,"target":21,"value":1, "color": "lightgreen"},
+    {"source":21,"target":17,"value":1, "color": "lightblue"}
   ],
   "nodes":[
     {"name":"Joint Grant", "color": "aquamarine"},
@@ -48,7 +50,7 @@
     {"name":"Molecular Physiology", "color": "indigo"},
     {"name":"Chemistry", "color": "lightsalmon"},
     {"name":"Biochemistry", "color": "wheat"},
-    {"name":"Neuroscience", "color": "lightsteelblue"}
-
+    {"name":"Neuroscience", "color": "lightsteelblue"},
+    {"name":"Zygmunt Derewenda", "color": "mediumaquamarine"}
   ]
 }
